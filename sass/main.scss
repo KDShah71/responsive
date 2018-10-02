@@ -9,9 +9,11 @@
 @import 'vendor/normalize';
 
 //3.Base stylesheet
-
+@import 'base/base';
 
 //4.Layout
-
+@import 'layout/header';
+@import 'layout/hero';
+@import 'layout/grid';
 
 //5.Components
